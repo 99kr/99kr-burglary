@@ -28,3 +28,9 @@ If you want to have it non-esx you can just delete the ESX lines and make it for
   - Download and put it into your resources
   - Import the SQL
   - put `start 99kr-burglary` in your server.cfg
+  
+  ## Tutorial for InteractSound
+   - Place the lockpick.ogg inside InteractSound/client/html/sounds
+   - Open the __resource.lua
+   - Put `'client/html/sounds/lockpick.ogg',` under the `'client/html/sounds/demo.ogg',`
+   - Done
