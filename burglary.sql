@@ -1,0 +1,13 @@
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2052, 'coke_pooch', 'Pouch of coke', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2040, 'saffron', 'Saffron', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2041, 'speaker', 'Speaker', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2042, 'laptop', 'Laptop', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2043, 'book', 'Book', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2044, 'coupon', 'Coupon', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2045, 'toothpaste', 'Toothpaste', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2046, 'lotteryticket', 'Lottery Ticket', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2047, 'shirt', 'Shirt', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2048, 'pants', 'Pants', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2049, 'hat', 'Hat', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2050, 'shoes', 'Shoes', -1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (2051, 'lockpick', 'Lockpick', -1, 0, 1);
