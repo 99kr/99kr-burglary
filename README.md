@@ -17,8 +17,8 @@ If you want to have it non-esx you can just delete the ESX lines and make it for
  # Requirements
   - ESX
   - esx_policejob
-  - esx-qalle-camerasystem ( OPTIONAL )
-  - InteractSound ( OPTIONAL )
+  - ( OPTIONAL ) esx-qalle-camerasystem ( https://github.com/qalle-fivem/esx-qalle-camerasystem )
+  - ( OPTIONAL ) InteractSound ( https://github.com/plunkettscott/FiveM-Scripts )
   - esx_phone/esx_phone3 ( you can edit the event to gcphone if you use that )
   
   # Video
