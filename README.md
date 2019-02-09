@@ -1,4 +1,6 @@
-This is a simple script for doing a burglary in a house, there isn't a way to sell the items so you have to fix it yourself. Also a lotteryticket item where you can scrape it and have a chance to win money.
+# 99kr-burglary
+
+>This is a simple script for doing a burglary in a house, there isn't a way to sell the items so you have to fix it yourself. Also a lotteryticket item where you can scrape it and have a chance to win money.
 
 If you want to have it non-esx you can just delete the ESX lines and make it for another framework if you want to.
  
